@@ -1,0 +1,13 @@
+.headerL
+{
+    font-size:25px;
+    font-weight: 400;    
+    color: white;
+    float:left;
+
+}
+
+.headerR
+{
+    float:right;
+}
